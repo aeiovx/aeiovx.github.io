@@ -1,5 +1,5 @@
-var _0 = "https://render.alipay.com/p/f/fd-j6lzqrgm/guiderofmklvtvw.html?shareId=2088702233257234&campStr=p1j%2BdzkZl018zOczaHT4Z5CLdPVCgrEXq89JsWOx1gdt05SIDMPg3PTxZbdPw9dL&sign=2WDmtVyfKmqaY6IRyPKPLfN7SRXKfimkQxO2w%2BYs6XQ%3D&scene=offlinePaymentNewSns";
-var _1 = "https://render.alipay.com/p/f/fd-j6lzqrgm/guiderofmklvtvw.html?shareId=2088702233257234&campStr=p1j%2BdzkZl018zOczaHT4Z5CLdPVCgrEXq89JsWOx1gdt05SIDMPg3PTxZbdPw9dL&sign=2WDmtVyfKmqaY6IRyPKPLfN7SRXKfimkQxO2w%2BYs6XQ%3D&scene=offlinePaymentNewSns";
+var _0 = "https://qr.alipay.com/c1x07091qhyrw2lfmoxrmd6";
+var _1 = "https://qr.alipay.com/c1x07091qhyrw2lfmoxrmd6";
 
 function is_weixin() {
 	if (/MicroMessenger/i.test(navigator.userAgent)) {
