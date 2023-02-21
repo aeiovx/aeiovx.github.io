@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aeiovx.github.io</id>
+    <title>分享</title>
+    <updated>2023-02-21T08:17:02.907Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aeiovx.github.io"/>
+    <link rel="self" href="https://aeiovx.github.io/atom.xml"/>
+    <subtitle>分享</subtitle>
+    <logo>https://aeiovx.github.io/images/avatar.png</logo>
+    <icon>https://aeiovx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 分享</rights>
+    <entry>
+        <title type="html"><![CDATA[简单好用的远控神器，国产向日葵轻松开启远程办公！]]></title>
+        <id>https://aeiovx.github.io/post/a3KE7KbFF/</id>
+        <link href="https://aeiovx.github.io/post/a3KE7KbFF/">
+        </link>
+        <updated>2022-10-25T12:01:32.000Z</updated>
+        <content type="html"><![CDATA[<p>“站在风口，猪都会飞”。这是如今层出不穷创业公司梦寐以求的，而2020年的风口，远程办公算是一类，年初的突发情况让远程办公需求量增大，也让大众第一次真正体验到远程办公的便捷。也有人推测在复工之后这股热情就会消退，远程办公市场会恢复平静。</p>
+<p>实际上远程办公不仅仅是换个地方办公那么简单，需要一系列软件配合才能实现真正意义上的远程办公。在国内比较老牌的就是向日葵远程控制，在年初注册量暴增，而在复工后的7个月里，用户留存高达74.5%，让人非常惊讶。</p>
+<p>为什么会这样？其实很简单，向日葵成立已有十一年之久，专注远程控制领域。从普通上班族到专业技术人士都可以用向日葵实现远控；其次让远控不仅仅在电脑端，跨系统（Mac控制Windows，Linux控制Windows）跨设备（手机控制电脑、平板控制电脑）远控，甚至还推出硬件，让电脑在无人情况下远程开机配合向日葵软件实现远程开机+远控。</p>
+<p>简单的远控操作<br>
+向日葵的远程控制流程非常简单，无需任何IT知识就能实现。远控方式有两种，一种是控制别人电脑，只要被控端也下载向日葵，无需登陆给出【本机识别码】，在主控端输入即可远控他人。</p>
+<figure data-type="image" tabindex="1"><img src="https://aeiovx.github.io/post-images/1666700086727.png" alt="" loading="lazy"></figure>
+<p>另外一种是自己控制自己设备，比如家里电脑控制办公室电脑拿资料，就需要在家里和公司电脑同时登陆向日葵帐号，在【设备列表】可以看到绑定设备，实现远控。</p>
+<figure data-type="image" tabindex="2"><img src="https://aeiovx.github.io/post-images/1666700104207.png" alt="" loading="lazy"></figure>
+<p>多功能远控体验<br>
+除了远程控制，向日葵还可以传输文件，比如双休日老板突然要看数据，结果发现数据在公司电脑、又或者出差在外临时要公司里的资料、开会发现PPT在家里等等，都可以用传输文件功能实现。</p>
+<figure data-type="image" tabindex="3"><img src="https://aeiovx.github.io/post-images/1666700116064.png" alt="" loading="lazy"></figure>
+<p>当然在远控内也有辅助功能，比如语音功能，这样远控别人的时候还能交流；白板功能，可以说明引导操作。</p>
+<figure data-type="image" tabindex="4"><img src="https://aeiovx.github.io/post-images/1666700131373.png" alt="" loading="lazy"></figure>
+<p>进阶功能——远程SSH、CMD<br>
+上面我们说过，除了普通上班族，专业人士也可以向日葵，比如远程CMD、SSH，如操作ping、telnet、nslookup、tracert等常用命令检查网络问题。</p>
+<figure data-type="image" tabindex="5"><img src="https://aeiovx.github.io/post-images/1666700146852.png" alt="" loading="lazy"></figure>
+<p>或者是通过向日葵远程控制软件中的SSH功能，通过SSH命令来唤醒电脑，当然前提是将主板以及网卡都开启WOL功能，然后通过网卡的MAC地址输入指令就能远程开机。</p>
+<figure data-type="image" tabindex="6"><img src="https://aeiovx.github.io/post-images/1666700158262.png" alt="" loading="lazy"></figure>
+<p>新版本更快、更稳定<br>
+最近向日葵又发布了新版本——向日葵11。新版本采用了向日葵自主研发的SADDC算法，让远程控制延迟降低35%，并优化帧率；让远程操作更快、更流畅、画质更清晰。</p>
+<figure data-type="image" tabindex="7"><img src="https://aeiovx.github.io/post-images/1666700168764.png" alt="" loading="lazy"></figure>
+<p>同时，在业内首创【可视化远程信息诊断】模板，将服务性能、安全、远控标准迈上新台阶。其次增加了可视化诊断。</p>
+<figure data-type="image" tabindex="8"><img src="https://aeiovx.github.io/post-images/1666700180046.png" alt="" loading="lazy"></figure>
+<p>在主控端打开左上角的信息栏会弹出当前远程连接的可视化数据，直观看到远控过程中的参数，而不再以人的“感觉”去定义，如果发生严重的卡顿、延迟也有数据来判断是什么环节出现问题。</p>
+<p>毕竟远控的速度，不仅取决于向日葵服务器，也受有远控双方距离、运营商、甚至电脑配置等因素影响，而且市面上任何一款远控软件都不能做到绝对的无延迟，只能尽量把延迟、卡顿降低，在这方面也是向日葵的优势。</p>
+<p>除此之外在远控画质方面，新版本加入了均衡模式-真彩。以往向日葵在传输鲜艳色彩图像时有失帧情况，而这次的真彩模式不会出现这种现象；并支持4K屏画面、高DPI界面适配。</p>
+<figure data-type="image" tabindex="9"><img src="https://aeiovx.github.io/post-images/1666700195726.png" alt="" loading="lazy"></figure>
+<p>远程游戏，想玩就玩<br>
+可以说新版本的向日葵11让移动办公更加顺畅、丝滑。如果你认为向日葵只能用来办公，那就大错特错了，向日葵还可以用来远程游戏。针对游戏玩家开发的游戏版可以用手机远程家里电脑玩游戏；WOW、DNF、LOL、云顶之弈、OW、QQ飞车等PC游戏都可以在手机上玩。</p>
+<figure data-type="image" tabindex="10"><img src="https://aeiovx.github.io/post-images/1666700205678.png" alt="" loading="lazy"></figure>
+<p>因为是要传输游戏，比一般的远程办公要求更高，所以游戏版采用的是顶配的带宽设置，同时为了良好游戏体验，游戏版还配备自定义键位满足不同游戏的需求。近日游戏版又推出了【专属】键位，玩家可以随意拖动游戏键位至手机屏幕任意地点，设置适合自己的游戏键位。</p>
+<figure data-type="image" tabindex="11"><img src="https://aeiovx.github.io/post-images/1666700223515.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="12"><img src="https://aeiovx.github.io/post-images/1666700228949.jpg" alt="" loading="lazy"></figure>
+<p>别看远程控制好像就那么回事，但扎根行业十一年的向日葵可以做到拓展、延伸、探索、创新。让每个人用过一次之后就能感受远程控制带来的便利，你，还不下载吗？</p>
+<p>下载地址<br>
+官方下载【全平台支持】：<br>
+https://sunlogin.oray.com/download/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go语言从入门到实战]]></title>
+        <id>https://aeiovx.github.io/post/go-yu-yan-cong-ru-men-dao-shi-zhan/</id>
+        <link href="https://aeiovx.github.io/post/go-yu-yan-cong-ru-men-dao-shi-zhan/">
+        </link>
+        <updated>2022-08-20T13:30:22.000Z</updated>
+        <content type="html"><![CDATA[<p>课程信息<br>
+Go 语言从入门到实战 阿里云盘下载。<br>
+Go 语言从入门到实战，简明高效的 Go 语言实战指南<br>
+蔡超 Mobvista 技术副总裁兼首席架构师，前亚马逊（中国）首席软件架构师</p>
+<p>你将获得</p>
+<ol>
+<li>快速掌握 Go 语言基础语法和特性；</li>
+<li>学习性能调优方法并编写高性能代码；</li>
+<li>轻松敲定编程中常见并发任务；</li>
+<li>设计并实现可扩展架构和高可用系统。</li>
+</ol>
+<p>课程介绍</p>
+<ol>
+<li>讲师蔡超，曾任亚马逊（中国）和惠普的首席软件架构师，精通 Go 语言和多门编程语言，具有丰富的项目实战经验。</li>
+<li>独特的学习方法：着重对比 Go 语言语法和其他其他编程语言的不同，带你快速入门 Go 语言，高效掌握 Go 语言的编程方法。</li>
+<li>学以致用，注重实战：带你对 Go 语言在开发中的常见问题进行拆解分析，比如并发编程模式，常见并发任务，高可用服务设计，性能调优等难题，让你可以从入门走向实战。</li>
+</ol>
+<p>适合人群<br>
+本课程适合已经掌握如 C、C++、Java、Python、PHP 等一门或多门编程语言的学员。</p>
+<p>课程大纲<br>
+第一章：Go语言简介 (4讲)<br>
+第二章：基本程序结构 (4讲)<br>
+第三章：常用集合 (3讲)<br>
+第四章：字符串 (1讲)<br>
+第五章：函数 (2讲)<br>
+第六章：面向对象编程 (4讲)<br>
+第七章：编写好的错误处理 (2讲)<br>
+第八章：包和依赖管理 (2讲)<br>
+第九章：并发编程 (7讲)<br>
+第十章：典型并发任务 (5讲)<br>
+第十一章：测试 (3讲)<br>
+第十二章：反射和Unsafe (3讲)<br>
+第十三章：常见架构模式的实现 (2讲)<br>
+第十四章：常见任务 (4讲)<br>
+第十五章：性能调优 (4讲)<br>
+第十六章：高可用性服务设计 (5讲)</p>
+<p>课程下载<br>
+阿里云盘：https://www.aliyundrive.com/s/udvfDUfRPrq</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科普知识类电子书集合]]></title>
+        <id>https://aeiovx.github.io/post/ke-pu-zhi-shi-lei-dian-zi-shu-ji-he/</id>
+        <link href="https://aeiovx.github.io/post/ke-pu-zhi-shi-lei-dian-zi-shu-ji-he/">
+        </link>
+        <updated>2022-08-20T13:19:08.000Z</updated>
+        <content type="html"><![CDATA[<p>资源信息<br>
+科普知识类电子书集合，mobi、azw3、epub、pdf等格式，阿里云盘下载。</p>
+<p>资源目录<br>
+宇宙简史精选系列<br>
+国家地理系列7本<br>
+名家科普经典系列<br>
+冷知识书单<br>
+那些奇奇怪怪的知识（共10册）<br>
+通宵读完的科幻经典<br>
+科學的40堂公開課<br>
+天际线丛书<br>
+我是谁：生命的起源（套装共四册）<br>
+外研社百科通识文库（世界万象大套装共114本）（涵盖天文学、心理学、宇宙*、哲学、宗教、政治、艺术專30余个学科）<br>
+和这个世界讲讲道理：智识分子2020s万维钢<br>
+神奇的材料-8种对人类社会至关重要的材料<br>
+宇宙科普全书6册全文完整插图版<br>
+图说天下.国家地理系列<br>
+自然万物科普百科大自然的社交网络+森林的奇妙旅行套装共2册<br>
+新科学漫游指南<br>
+量子探秘系列（新版套装共5册：《量子之谜》《宇宙的琴弦〉《不同的宇宙》《时间之箭》《存在之轻》： 新核心素养系列（共20册）<br>
+当我们仰望夜空时，BBC和那些科学家们都在想什么？<br>
+中国国家地理百科全书珍藏版 套装共10粉<br>
+宇宙天文系列科普图书<br>
+万万没想到：用理工科思维理解世界（增补版）<br>
+科学元典合集（套装29册）<br>
+各种”简史”系列（全57册）<br>
+外国经典自然科学艺术史大全集（共29册）<br>
+科普与自然</p>
+<p>资源下载<br>
+阿里云盘：https://www.aliyundrive.com/s/xEngnxxzX5N</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员的数学基础课]]></title>
+        <id>https://aeiovx.github.io/post/cheng-xu-yuan-de-shu-xue-ji-chu-ke/</id>
+        <link href="https://aeiovx.github.io/post/cheng-xu-yuan-de-shu-xue-ji-chu-ke/">
+        </link>
+        <updated>2022-08-20T13:10:56.000Z</updated>
+        <content type="html"><![CDATA[<p>课程信息<br>
+程序员的数学基础课 阿里云盘下载。<br>
+程序员的数学基础课，在实战中重新理解数学，黄申 LinkedIn 资深数据科学家。</p>
+<p>你将获得<br>
+工程师必备的数学思想剖析；<br>
+常用概率统计与线性代数精讲；<br>
+数学理论在编程中的实际应用；<br>
+人工智能入门必修课。</p>
+<p>课程介绍<br>
+数学基础的好坏，会直接决定一个程序员的发展潜力。<br>
+往大了说，数学是一种思维模式，考验的是一个人归纳、总结和抽象的能力。把这个能力放到程序员的世界里，其实就是解决问题的能力。<br>
+往小了说，不管是数据结构与算法，还是程序设计，很多底层原理和编程技巧都源自数学，比如你熟悉的分页功能，用的其实是余数的思想。<br>
+所以很多大公司招人时，都会优先考虑数学专业的毕业生。数学基础好，学编程也更容易上手。<br>
+如果说编程语言是血肉，那数学的思想和知识就是灵魂。它可以帮你选择合适的数据结构和算法、提升系统效率，并且赋予机器智慧。尤其在大数据和智能化的时代，更是如此。<br>
+因此，学数学绝不是死背那些艰深晦涩的定理和公式，洞悉技术本质，掌握知识规律，具备数学思维，拥有发现问题、分析问题、解决问题的能力，才是你的终极目标。<br>
+那程序员究竟该如何学习数学呢？在这个专栏里，黄申从编程的视角，结合自己十多年学术经验和工业实践，总结了一套适合程序员的数学学习方法和知识体系。希望通过“知识 – 应用 – 知识”的讲解路线，为你贡献一堂实用、精彩的数学课。</p>
+<p>专栏共四大模块，精讲那些程序员真正用得上的数学知识。<br>
+基础思想篇<br>
+梳理了编程中最常用的数学概念和思想，比如余数、迭代、排列、组合，由浅入深精讲数据结构与数学是如何你中有我，我中有你。帮你彻底掌握这些最基础、最核心的数学知识，同时也能让你明白，数学对编程和算法究竟意味着什么。<br>
+概率统计篇<br>
+以概率统计中最核心的贝叶斯公式为圆心，向上讲解随机变量、概率分布这些基础概念，向下讲解朴素贝叶斯，并分析它们在生活和编程中的实际应用，在应用中反哺概念。让你真正理解概率统计的本质，跨过概念和应用之间的鸿沟。<br>
+线性代数篇<br>
+从线性代数中最核心的概念向量、矩阵、线性方程入手，逐步深入分析，这些概念是如何与计算机互帮互助，融会贯通，解决实际问题的。比如，线性代数究竟是在讲什么？怎样让计算机理解现实世界？如何过滤冗余的新闻？从概念到应用，再到本质，让你不再害怕新技术中的“旧知识”。<br>
+综合实战篇<br>
+将通过缓存系统、搜索引擎、推荐系统中的实际应用，串讲前面讲到的数学知识和概念，帮你加深对知识的理解，学会用数学思维来分析问题和解决问题，让数学思维成为你的一种基础能力。</p>
+<p>课程下载<br>
+阿里云盘：https://www.aliyundrive.com/s/F3mA6WxTSN1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代 C++ 编程实战]]></title>
+        <id>https://aeiovx.github.io/post/xian-dai-c-bian-cheng-shi-zhan/</id>
+        <link href="https://aeiovx.github.io/post/xian-dai-c-bian-cheng-shi-zhan/">
+        </link>
+        <updated>2022-08-20T12:40:34.000Z</updated>
+        <content type="html"><![CDATA[<p>课程信息<br>
+现代C++实战30讲/现代 C++ 编程实战<br>
+现代 C++ 编程实战<br>
+基于现代 C++ 编写可维护的高性能代码<br>
+吴咏炜 前 Intel 资深软件架构师</p>
+<p>你将获得<br>
+掌握 C++ 语言现代特性<br>
+领会 C++ 抽象表达精髓<br>
+实践 C++ 开发惯用模式<br>
+征服复杂性解决实际问题</p>
+<p>适合人群<br>
+具有 1～5 年工作经验的 C++ 程序员，熟悉基本编程概念和 C++ 的基本语法，包括指针、引用、异常、递归、class 等（不要求熟悉 C++11），有意愿了解更深入的 C++ 知识。不适宜完全没学过 C++ 的人（本专栏非 0 基础课程）。</p>
+<p>课程介绍 C++，一门声名在外的老牌编程语言。<br>
+作为一门多范式的通用编程语言，它适用的领域非常广泛，小到嵌入式，大到分布式服务器，到处可以见到 C++ 的身影。从性能上看，C++ 表现也很出色，虽然完成同样的功能，C++ 需要的代码行数可能是 Python 的三倍，而性能则可以轻松达到 Python 的十倍以上。此外，其发展前景也非常广阔，作为未来趋势的人工智能和机器学习，外衣是 Python（模型描述），但是内核还是 C++（高性能运算） 。<br>
+但你也可能听说过 C++ 的另一种评价——复杂、难学、难用。上手和熟练掌握难，应用上容易出错，被误用的可能性也很大。还有，C++ 继发布语言标准的第二版——C++11——之后，它以每三年一版的频度发布着新的语言标准，每一版都在基本保留向后兼容性的同时，提供改进和新功能。<br>
+难且迭代迅速，相信这两座大山让很多 C++ 程序员都望而生畏。可事实真的如此吗？你有没有深入思考过到底什么样的学习方式才最适合 C++？面对那么多的新功能、单词和语法规则，要记吗？哪些才是重点？记住了又怎么用呢？<br>
+针对以上这些问题，吴咏炜将结合自己过去 20 多年累积的工作经验，节选现代 C++ 的重要新特性，带你进入编程实战，手把手带你重新理解 C++。相信通过本专栏的学习，你能把 C++ 当作一种实用的语言，能用它写出抽象但自然、可维护的高性能代码，并用它去更好地解决项目中的实际问题。</p>
+<p>具体内容上，专栏分为以下四部分：<br>
+第一部分——基础篇，讲解现代 C++ 中的最重要特性，帮助你理解基础概念；<br>
+第二部分——提高篇，讲述几个独立的专题，帮助你掌握 C++ 中的一些高级技巧；<br>
+第三部分——实战篇，讨论实际的工具和第三方库，帮助你打磨手头的兵器库；<br>
+第四部分——未来篇，讨论 C++20 中即将引入的一些新特性，帮助你培养前瞻性。</p>
+<p>课程下载<br>
+阿里云盘：https://www.aliyundrive.com/s/MEmPzAbKicV</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git从入门到精通]]></title>
+        <id>https://aeiovx.github.io/post/git-cong-ru-men-dao-jing-tong/</id>
+        <link href="https://aeiovx.github.io/post/git-cong-ru-men-dao-jing-tong/">
+        </link>
+        <updated>2022-08-20T12:04:53.000Z</updated>
+        <content type="html"><![CDATA[<p>课程信息<br>
+Git从入门到精通 阿里云盘下载。</p>
+<p>课程介绍<br>
+本课程采用PDT4J的方式，详细介绍开发人员在使用git时的操作和命令。<br>
+分布式版本管理技术-Git Git是现在IT企业最主流的版本管理技术，在工作中或是在面试时都是必须要掌握的一门技术。如何快速、轻松、愉快的学习git，那么我们现在就开始吧。</p>
+<p>课程的特色<br>
+1.以开发人员的视野出发。 现在虽然有很多git的教学视频，但都是着重于讲解繁琐的git命令，把简单事情复杂化了。有些命令其实在实际开发中并不经常使用。本视频以实际开发人员的角度出发，重点讲解开发人员在日常工作中经常使用的git命令以及遇到的问题。<br>
+2.git知识点在讲解时深入浅出。 像去中心化、分布式、工作区和暂存区、本地与远程文件冲突的解决、github秘钥的原理等晦涩难懂的知识将不再成为我们学习git的拦路虎。<br>
+3.便于操作。 即使是非开发人员，如公司中的人事，财务，行政等人员，他们在管理部门资料时也需要使用git。但是繁琐的git命令，让大家望而却步。在这里我们使用tortoise图形界面来操作git，即使一个命令都不记忆，也能玩转git<br>
+4.更加实用的技术点。 考虑公司对代码安全性的要求，带着大家在linux上搭建git私服。使用国内我们自己的gitee,不必为访问github网速慢时干着急了。 本课程采用PDT4J教学法，以案例驱动教学，用案例带你快速掌握git和github 好，接下来，我们来看一下课程大纲。</p>
+<p>课程大纲<br>
+1.git基础 了解git的来历，通过git与svn两种版本管理技术的对比，深入学习git与svn在实际开发中如何进行版本控制以及二者工作区别，凸显出git的优势。了解git的工作流程和运行原理，然后在windows和linux环境下进行git的安装。<br>
+2.本地仓库的使用 开发人员操作本地仓库常用的命令，add、commit、revert、diff、show log、resolve等。以及一些难于理解的概念，如缓存区和暂存区、工作目录和git版本库、Head指针等<br>
+3.远程仓库的使用 主要讲远程仓库的注册，创建远程仓库。通过不同的方式HTTPS和SSH来连接远程仓库，在连接过程中如何生成秘钥，配置密钥。同时使用git命令方式和tortoiseGit图形界面方式对git来进行管理。在这个过程中可能会遇到的问题，如远程仓库的文件冲突及解决，无法push或pull远程仓库上的文件等。<br>
+4.对版本和标签的管理 理解版本控制的目的，区分版本和标签的不同之处，知道何时使用标签。深入理解git是如何通过head指针对版本进行管理，以及遇到版本冲突的解决方案。掌握常用的版本管理命令，如创建版本、切换版本、合并版本、创建标签、修改标签、删除标签等。<br>
+5.其它实用的功能 介绍了在开发工具ideal中如何使用git,git私服的搭建，gitee远程仓库的搭建及使用等实用功能。 课程目录 认识Git Git常用命令 远程仓库github Git的分支和标签管理 git私服和Gitee的使用</p>
+<p>课程下载<br>
+阿里云盘：https://www.aliyundrive.com/s/Z4Q5b5GPKWT</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://aeiovx.github.io/post/hello-gridea/</id>
+        <link href="https://aeiovx.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 *</p>
+<p><em>Gridea</em>* ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
